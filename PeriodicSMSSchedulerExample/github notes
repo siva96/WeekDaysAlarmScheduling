@@ -1,0 +1,27 @@
+1. Create folder wherever u want repository in your local machine
+
+2. Through Git bash(windows) go to that created folder.
+
+3. Enter command
+
+·  git clone repository url
+
+4. Now u get server code into the local repository
+
+5.update your code by simply replacing files in local repository
+
+6. Enter command after following step 2.
+
+·  git add *
+
+·  git commit
+
+·  git pull (if anyone changed the code in repository)
+
+·  git push
+
+7.U can directly follow from step 5 next time onwards.
+
+
+
+note : when u commit code u will get vi editor or any other editor to write changes u made in the updated code.
