@@ -28,6 +28,7 @@ public class MainActivity extends Activity {
         tv_setDays = (TextView) findViewById(R.id.tv_Days_Set);
     }
 
+	/** method to set the time**/
     public void setTime(View v) {
         showTimePickerDialog();
     }
